@@ -1,0 +1,1 @@
+bool check(bool x, bool y);
